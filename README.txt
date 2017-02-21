@@ -2,7 +2,7 @@
 Codigo curso: CSOF5101 - 2017.
 Nombre curso: CONCEPTOS AVANZADOS EN INGENIERIA DE SOFTWARE.
 Nombre de la tarea: Assignment Kit for Program 2.
-Fecha de envío de la tarea: 21 Febrero 2017 (00:55)
+Fecha de envío de la tarea: 21 Febrero 2017 (02:00)
 Autor: Walter Javier Alonso Roa
 /************************************************************/
 
@@ -13,12 +13,17 @@ el codigo fuente se encuentra en el repo: https://github.com/WalterAlonso/PSP1.g
 
 ** Ambiente de ejecucion:
 Este programa fue realizado con JRE 1.7 en S.O 7.
+Debe tener instalado Maven
 
 
 
 **************** Instrucciones de ejecucion ************************
 ** colne repo desde github.
 $git clone https://github.com/WalterAlonso/PSP1.git
+
+
+** Ingresar al folder PSP1
+  	cd PSP1
 
 ** Ejecucion maven
 
