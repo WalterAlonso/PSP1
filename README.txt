@@ -26,4 +26,4 @@ $git clone https://github.com/WalterAlonso/PSP1.git
 
 ** Ejecute el programa:
 
-	java -cp target/PSP0_Calculo_Media_DesviacionEstandar-1.0-SNAPSHOT.jar uniandes.ecos.conceptosAvanzados.contadorLineaJava.controlador.ContadorLineaJava
+	java -cp target/PSP1_Ecos_ContadorLineaJava-1.0-SNAPSHOT.jar uniandes.ecos.conceptosAvanzados.contadorLineaJava.controlador.ContadorLineaJava
